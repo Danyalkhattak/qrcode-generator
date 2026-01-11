@@ -1,5 +1,5 @@
 # QR Code Generator
-
+<img src="qrcode.png" width="300" height="300" />
 A simple, elegant web-based QR code generator that converts any text or URL into a downloadable QR code image.
 
 ![QR Code Generator](https://img.shields.io/badge/version-1.0.0-blue.svg)
